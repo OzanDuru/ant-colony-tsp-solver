@@ -198,11 +198,9 @@ For the Berlin52 problem with default parameters:
 - Ant Colony Optimization: Metaheuristic algorithm for combinatorial optimization
 - Traveling Salesman Problem: Classic NP-hard optimization problem
 
-## License
 
-[Add your license information here]
 
 ## Author
 
-[Add your information here]
+Ozan Duru
 
